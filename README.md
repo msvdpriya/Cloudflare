@@ -26,7 +26,7 @@ Requests are evenly distributed between the two urls, in A/B testing style. This
 For each variant page, there are a number of items on the page that can be customized. The following values inside of the variant are customized:
 
  - title: the title of the web page is changed to "Priya's CloudFlare Website Variant X".
- - h1#title: the main title of the page is changed to "Priya's CloudFlare Website Variant 1".
+ - h1#title: the main title of the page is changed to "Priya's CloudFlare Website Variant X".
  - p#description: the description paragraph on the page is changed to "Welcome to my CloudFlare website. I am a Graduate Research Assistant at Penn State University."
  - a#url: I have changed URL to point to my Linkedin Profile page.I have changed the text from "Return to CloudFlare.com" to "Connect with me on Linkedin"
 
