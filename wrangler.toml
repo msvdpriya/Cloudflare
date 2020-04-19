@@ -1,0 +1,6 @@
+name = "cloudflare-ab-router"
+type = "javascript"
+account_id = "XXXXX"
+workers_dev = true
+route = ""
+zone_id = ""
