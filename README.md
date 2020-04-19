@@ -12,7 +12,7 @@ You can test the above project at : https://cloudflare-ab-router.priyadarshini.w
 ## Features implemented
 
 ### 1. Requests the URLs from the API
-### 2. Requests a (random: see #3) variant
+### 2. Requests a variant
 
 Fetches request to one of the two URLs, and return it as the response from the script.
 
